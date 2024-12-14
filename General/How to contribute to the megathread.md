@@ -17,7 +17,7 @@ In order to make sure everyone is operating off of a shared version we use Git f
 	- Tip: typing in "sync" will autocomplete to this command, you can also set a hotkey for it in Obsidian's hotkey settings
 - Ensure you have the setting "Pull on startup" turned **ON**
 ##### Digital Garden (Optional)
-If you want to be able to publish to the site yourself you'll need this plugin, otherwise someone else with the plugin will need to pull your changes from GitHub and then publish
+If you want to be able to publish to the site yourself you'll need this plugin, otherwise someone else with the plugin will need to pull your changes from GitHub and then publish **Before publishing, ensure your page settings and theme settings match the website's**
 - Go to the [Digital Garden](obsidian://show-plugin?id=digitalgarden) plugin page, install and enable it
 - You need to create an access token to your GitHub Account. This acts as a sort of password so that the plugin can add new notes to your GitHub repository on your behalf. Go to [this page](https://github.com/settings/tokens/new?scopes=repo) while logged in to GitHub. The correct settings should already be applied. (If you don't want to generate this every few months, choose the "No expiration" option.) Click the "Generate token" button, and copy the token you are presented with on the next page.
 - Open Obsidian and the settings for "Digital Garden" and fill in your GitHub username, the name of the repo (nfr-megathread), and lastly paste in your token.
