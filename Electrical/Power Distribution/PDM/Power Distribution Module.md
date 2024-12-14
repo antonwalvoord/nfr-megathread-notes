@@ -5,7 +5,6 @@ dg-pinned: true
 ### Members in charge
 - [Ash Wei](https://nufsae.slack.com/team/U07PKBS1Y0K)
 - [Michael Xing](https://nufsae.slack.com/team/U05TPFB4F51)
-
 ### [Project Google Drive](https://drive.google.com/drive/folders/1bUXDNzRZ9vC9e3OqMUGO0GZfrWr8vvME?usp=drive_link)
 
 ### Project Information

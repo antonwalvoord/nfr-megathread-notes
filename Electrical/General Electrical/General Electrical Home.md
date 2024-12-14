@@ -5,3 +5,18 @@ dg-pinned: true
 ## Informational Guides
 - [[Altium Onboarding Guide]]
 - [[UTM (Free Windows Emulator) Setup Guide]]
+
+## Full Project List
+- [[Battery Management System Home|BMS:]]
+	- ==Fill in==
+- [[Data Acquisition Home|DAQ]]
+	- ==Fill in==
+- [[Drivetrain Electronics Home|Drivetrain Electronics]]
+	- ==Fill in==
+- [[Power Distribution Home|Power Distribution]]
+	- [[Harness]]
+	- [[LV Battery]]
+	- [[LV Charger]]
+	- [[Power Distribution Module]]
+- [[Safety Electronics Home|Safety Electronics]]
+	- ==Fill in==
