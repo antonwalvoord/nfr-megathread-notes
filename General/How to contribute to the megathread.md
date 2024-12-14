@@ -26,6 +26,8 @@ If you want to be able to publish to the site yourself you'll need this plugin, 
 ##### Imgur (Optional)
 I have personally run into issues with embedding files and having them successfully upload to the site. If you run into those same issues (I think you likely will) you should install the Obsidian [Imgur](obsidian://show-plugin?id=obsidian-imgur-plugin) plugin. It automatically uploads images you paste into the doc to Imgur which works much better. Follow the setup guide on the install page.
 
+If you need to embed other types of files, there are ways to do this through html as well [[FSAE 2025 Rules|See: FSAE 2024 Rules]]
+
 # Permissions
 In order to edit the megathread you'll need to be added as a collaborator on the Git repository where the thread is housed. Contact Anton on [slack](https://nufsae.slack.com/team/U05U23W4WJV) or by [email](mailto:antonwalvoord2027@u.northwestern.edu) to be added.
 
