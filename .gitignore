@@ -1,0 +1,2 @@
+#ignore obsidian json files for better git usage on mobile
+.obsidian/**
