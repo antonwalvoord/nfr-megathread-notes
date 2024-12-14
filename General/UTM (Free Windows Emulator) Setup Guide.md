@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 1. Go to [UTM's Website](https://mac.getutm.app/) and download the the software
 2. Follow these [Instructions](https://docs.getutm.app/guides/windows/) (Copied below)
 

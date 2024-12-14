@@ -8,13 +8,14 @@ Obsidian is what I use to edit the megathread and I highly recommend it. It stor
 After installing Obsidian, launch it and create a new vault called "MEGATHREAD" in a file location of your choice. Don't add any files to the vault yet. Then set up the plugins below (Git is mandatory, the others are extremely useful).
 #### Plugins
 ##### Git (Mandatory)
-In order to make sure everyone is operating off of a shared version we use Git for version control. Obsidian has a great plugin for this which makes it incredibly easy to stay in sync with the repo. **Whenever you finalize changes to the repo you must commit them and push them. DO NOT push them unless you are ready to have them published to the live version, as someone else will likely pull and then unknowingly publish your changes. To avoid this, make sure that all settings labelled "Auto commit-and-sync" are DISABLED**
+In order to make sure everyone is operating off of a shared version we use Git for version control. Obsidian has a great plugin for this which makes it incredibly easy to stay in sync with the repo. **Whenever you finalize changes to the repo you must commit them and push them. DO NOT push them unless you are ready to have them published to the live version, as someone else will likely pull and then unknowingly publish your changes. To avoid this, make sure that all settings labelled "Auto commit-and-sync" are DISABLED** 
 - If you don't have Git installed on your computer, reference [this guide](https://nfr-learn.ue.r.appspot.com/lessons/4/3/) steps **4 and 5**
 - Go to the [Git](obsidian://show-plugin?id=obsidian-git) plugin page, install and enable it
 - Follow [this guide](https://publish.obsidian.md/git-doc/Getting+Started) to fully set up the plugin
 - When you clone the repository you should use [this](https://github.com/antonwalvoord/nfr-megathread-notes.git) link
 - When using this plugin, the most useful command is "commit-and-sync". This command will automatically stage all your changes, commit them, and push them to the remote repository. In order to use this command, use ctrl/cmd+p and type in "Git: Commit-and-sync"
 	- Tip: typing in "sync" will autocomplete to this command, you can also set a hotkey for it in Obsidian's hotkey settings
+- Ensure you have the setting "Pull on startup" turned **ON**
 ##### Digital Garden (Optional)
 If you want to be able to publish to the site yourself you'll need this plugin, otherwise someone else with the plugin will need to pull your changes from GitHub and then publish
 - Go to the [Digital Garden](obsidian://show-plugin?id=digitalgarden) plugin page, install and enable it
