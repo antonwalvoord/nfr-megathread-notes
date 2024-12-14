@@ -14,7 +14,7 @@ In order to make sure everyone is operating off of a shared version we use Git f
 - Follow [this guide](https://publish.obsidian.md/git-doc/Getting+Started) to fully set up the plugin
 - When you clone the repository you should use [this](https://github.com/antonwalvoord/nfr-megathread-notes.git) link
 - When using this plugin, the most useful command is "commit-and-sync". In order to use this command, use ctrl/cmd+p and type in "Git: Commit-and-sync"
-	- Tip: typing in "sync" will autocomplete to this command
+	- Tip: typing in "sync" will autocomplete to this command, you can also set a hotkey for it in Obsidian's hotkey settings
 ##### Digital Garden (Optional)
 If you want to be able to publish to the site yourself you'll need this plugin, otherwise someone else with the plugin will need to pull your changes from GitHub and then publish
 - Go to the [Digital Garden](obsidian://show-plugin?id=digitalgarden) plugin page, install and enable it
