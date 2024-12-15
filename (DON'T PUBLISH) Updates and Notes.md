@@ -1,6 +1,6 @@
 ## To be Updated
 - [ ] LV charger description [[LV Charger]]
-- [ ] electrical architecture
+- [ ] electrical architecture [[Car Architecture#Electrical]]
 ## To be Added
 - [ ] per team projects w description and current members
 - [ ] current leads
