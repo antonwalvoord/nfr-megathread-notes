@@ -51,9 +51,6 @@ When you're first getting started using Altium it will take a while to get used 
 
 ![500](https://i.imgur.com/cn0aUNw.png)
 The **components panel** is used to place parts from [the workspace component library](https://americas-northwestern-formula-racing-northwestern-univ-2.365.altium.com/components) or your local component library. **Manufacturer part search** is useful to check for component schematics and footprints that are uploaded by the manufacturer (searching by component title or part number). Finally, the **Properties** panel is *EXTREMELY* useful for information about every part of your design, from the schematic, to component footprints and datasheets, to traces on your circuit board.
-
-##### Useful shortcuts:
-- (While in )
 ##### Useful plugin (Samacsys Library Loader):
 Many components you'd like to use will not have their schematic and/or footprint in either the **components** or **manufacturer part search** panels. In this case it can be difficult to import them into your design. There is a plugin you can add to Altium which will automatically import a wide variety of parts into your project for you. While the list is not exhaustive, you will be happy to have this tool in your install. The tool is called [Samacsys Library Loader](https://www.samacsys.com/altium-designer-library-instructions/) and setup information can be found at the link provided.
 #### Useful resources:
