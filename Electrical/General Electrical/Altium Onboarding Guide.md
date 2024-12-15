@@ -1,7 +1,10 @@
 ---
 dg-publish: true
 ---
->[!WARNING] Altium is **Windows only**, in order to use Altium on a Mac you'll first need to set up [[UTM (Free Windows Emulator) Setup Guide|UTM]], a free windows emulator, or [Parallels](https://www.parallels.com/), a paid windows emulator. If you don't want to install or set up any emulators you can also use [Apporto](https://northwestern.apporto.com/), which is a virtual machine hosted by Northwestern. *This route has easier setup but a worse experience*
+>[!WARNING] Altium is **Windows only!**
+>In order to use Altium on a Mac you'll first need to set up [[UTM (Free Windows Emulator) Setup Guide|UTM]], a free windows emulator, or [Parallels](https://www.parallels.com/), a paid windows emulator.
+>
+>If you don't want to install or set up any emulators you can also use [Apporto](https://northwestern.apporto.com/), which is a virtual machine hosted by Northwestern. *This route has easier setup but a worse experience*
 ### Instructions for the new member
 1. Create an account on [altium.com](http://altium.com)
 2. During setup ***use your school email*** and select something that looks like "NA Formula Racing"
