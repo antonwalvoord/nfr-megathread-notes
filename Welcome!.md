@@ -16,7 +16,7 @@ This website serves as an informational hub for all things Northwestern Formula 
 ## Quick Links
 - [[General Electrical Home]]
 - [[General Mechanical Home]]
-- ==[[Car Architecture]]==
+- ***[[Car Architecture]]***
 - [[FSAE 2025 Rules]]
 - [CAN DBC](https://nfr-learn.ue.r.appspot.com/can)
 - [[How to contribute to the megathread]]

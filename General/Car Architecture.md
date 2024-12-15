@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Mechanical
 🚧I need help for this🚧
 # Electrical
