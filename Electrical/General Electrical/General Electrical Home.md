@@ -2,10 +2,10 @@
 dg-publish: true
 dg-pinned: true
 ---
+## [[Car Architecture#Electrical|Electrical Architecture]]
 ## Informational Guides
 - [[Altium Onboarding Guide]]
 - [[UTM (Free Windows Emulator) Setup Guide]]
-
 ## Full Project List
 - [[Battery Management System Home|BMS:]]
 	- ==Fill in==
