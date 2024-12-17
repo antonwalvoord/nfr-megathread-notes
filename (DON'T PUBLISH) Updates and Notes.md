@@ -3,6 +3,7 @@
 - [ ] electrical architecture [[Car Architecture#Electrical]]
 	- [ ] MAKE SURE YOU LINK AS MUCH AS POSSIBLE
 - [ ] ==ALL TEAM HOME PAGES==
+- [ ] team terminology, pick up at [[Team Terminology#Manual Service Disconnect (MSD)]]
 ## To be Added
 - [ ] per team projects w description and current members
 - [ ] current leads
