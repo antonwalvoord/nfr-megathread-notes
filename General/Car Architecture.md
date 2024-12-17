@@ -15,7 +15,8 @@ dg-publish: true
 ### Battery Structure
 ##### Accumulator
 🚧voltage/amperage/fusing🚧
-##### LV Battery
+##### Low Voltage (LV) Battery
+The LV Battery powers everything other than the [[Team Terminology#Tractive System (TS)|Tractive System]]. It's located in the [[#LV Box]] and 
 🚧voltage/amperage/fusing🚧
 ### Power Distribution
 ### Enclosures

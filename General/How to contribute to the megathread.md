@@ -23,9 +23,9 @@ If you want to be able to publish to the site yourself you'll need this plugin, 
 - Open Obsidian and the settings for "Digital Garden" and fill in your GitHub username, the name of the repo (nfr-megathread), and lastly paste in your token.
 - Finally, you'll need to modify your Digital Garden settings to ==match the website's==
 	- Open the Digital Garden **"Features"** settings and ensure everything *except* "Let all frontmatter through" is enabled
-	- Open the Digital Garden **"Appearance"** settings and ensure they look like the screenshow below.
+	- Open the Digital Garden **"Appearance"** settings and ensure they look like the screenshot below.
 	
-		![|300](https://i.imgur.com/dZE24Uf.png)
+		![|400](https://i.imgur.com/dZE24Uf.png)
 - Now you can publish to the site! In order to do this, type ctrl/cmd+p and "Digital Garden: Publish Multiple Notes" or "Digital Garden: Publish Single Note"
 	- **Tip:** typing in "multiple" or "single" will autocomplete to these commands, you can also set a hotkey for them in Obsidian's hotkey settings
 	- **Note:** if you make a new page, it will not be published unless you add a "dg-publish" property to it. An easy way to do this is to use the command "Digital Garden: Add publish flag". If you type ctrl/cmd+p and "flag" it should autocomplete.
@@ -33,9 +33,7 @@ If you want to be able to publish to the site yourself you'll need this plugin, 
 I have personally run into issues with embedding files and having them successfully upload to the site. If you run into those same issues (I think you likely will) you should install the Obsidian [Imgur](obsidian://show-plugin?id=obsidian-imgur-plugin) plugin. It automatically uploads images you paste into the doc to Imgur which works much better. Follow the setup guide on the install page.
 
 If you need to embed other types of files, there are ways to do this through html as well [[FSAE 2025 Rules|See: FSAE 2024 Rules]]
-
 # Permissions
 In order to edit the megathread you'll need to be added as a collaborator on the Git repository where the thread is housed. Contact Anton on [slack](https://nufsae.slack.com/team/U05U23W4WJV) or by [email](mailto:antonwalvoord2027@u.northwestern.edu) to be added.
-
 # Usage Notes
 If you're going to be editing a portion of the megathread "owned" by another member (owned meaning they are in charge of it's content or it's highly relevant to them) you should contact them prior to pushing your changes.
