@@ -31,5 +31,7 @@ dg-publish: true
 ###### FUN.2 3Blue1Brown: But what is the Fourier Transform? A visual introduction.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/spUNpyF58BY?si=Hrcr_yj2Y0Z6PVH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-###### [FUN.3 Technology Connections Whole Channel](https://www.youtube.com/@TechnologyConnections/videos) (Great videos on a wide range of topics, both electrical and mechanical)
+###### [FUN.3 Stuff Made Here's Whole Channel](https://www.youtube.com/@StuffMadeHere/videos) Very very interesting engineering projects covering both hardware and software as well as mechanical engineering and machining
+![](https://i.imgur.com/Bt3WvZY.png)
+###### [FUN.4 Technology Connections Whole Channel](https://www.youtube.com/@TechnologyConnections/videos) (Great videos on a wide range of topics, both electrical and mechanical)
 ![](https://i.imgur.com/GBpXFiI.png)
