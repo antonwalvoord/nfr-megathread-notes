@@ -25,5 +25,8 @@ Described by **EV.5.4**: Normally open relays which disconnect the two poles of 
 ##### Manual Service Disconnect (MSD)
 By **EV.5.5** "A Manual Service Disconnect (MSD) must be included to quickly disconnect one or the two poles of the Accumulator **EV.11.3.2**"
 
+
+##### Battery Pack Configuration Shorthand
+Often it is helpful to know how many series and parallel connections a battery pack has. The number of series connections indicates the pack voltage, and the number of parallel connections indicates the pack current/capacity. To quickly share this information we use the shorthand "`XsYp`" where "X" denotes the number of series connections and "Y" the number of parallel connections. Meaning `10s4p` would represent a battery pack with `10` series connections and `4` parallel connections
 ### Mechanical
 🚧Under [[How to contribute to the megathread|construction]]🚧

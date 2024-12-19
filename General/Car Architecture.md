@@ -17,15 +17,13 @@ We have stuck with the traditional single motor + differential setup for simplic
 ### Battery Structure
 ##### Accumulator
 🚧voltage/amperage/fusing🚧
-##### Low Voltage (LV) Battery
+##### [[LV Battery|Low Voltage (LV) Battery]]
 The LV Battery powers everything other than the [[Team Terminology#Tractive System (TS)|Tractive System]]. It's located in the [[#LV Box]]. The mechanical structure is designed by the [[Accumulator Home|Accumulator Subteam]] and the electrical structure is designed by the [[Power Distribution Home|Power Distribution Subteam]].
 ###### Electrical Structure
-- Max Voltage: 
-- Nominal Voltage:
-- Max continuous amperage:
-- Fusing: 
 
-🚧voltage/amperage/fusing🚧
+| Cells        | Configuration                                                   | Max Voltage | Nominal Voltage | Capacity | Fused Current |
+| ------------ | --------------------------------------------------------------- | ----------- | --------------- | -------- | ------------- |
+| Molicel p42a | [[Team Terminology#Battery Pack Configuration Shorthand\|6s3p]] | 25.2 V      | 21.6 V          | 12.6 Ah  | 40 A          |
 ### Power Distribution
 ### Enclosures
 ##### Dashbox

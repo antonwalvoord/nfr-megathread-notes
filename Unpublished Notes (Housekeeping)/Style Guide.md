@@ -1,6 +1,7 @@
 ### General Notes
 Use \*\*Bold\*\* text to indicate if you're making a **Note:**
 \=\=Highlight\=\= and/or \*italicize\* text that is ==particularly== *important*
+In order to represent variables, use backticks. For example, if we want to refer to the variable `x` we would write \`x\`
 
 The purpose of the megathread is to be highly navigable and interconnected with information. We want information to be as accessible as possible, so to that end you should use \[\[links\]\] as much as possible (within reason). This will allow users to **realize** that more information is out there and **access** it easily
 ### Code
