@@ -16,7 +16,7 @@ In order to make sure everyone is operating off of a shared version we use Git f
 - Follow [this guide](https://publish.obsidian.md/git-doc/Getting+Started) to fully set up the plugin
 - When you clone the repository you should use [this](https://github.com/antonwalvoord/nfr-megathread-notes.git) link
 	- **Note:** When you do so, make sure you specify a *relative* path instead of an absolute path. So instead of `C:\Users\blah-blah`, just type the name of the new folder you want to create.
-- When using this plugin, the most useful command is "commit-and-sync". This command will automatically stage all your changes, commit them, and push them to the remote repository. In order to use this command, use ctrl/cmd+p and type in "Git: Commit-and-sync"
+- When using this plugin, the most useful command is "commit-and-sync". This command will automatically stage all your changes, commit them, then pull from remote to prevent merge conflicts, and finally push them to the remote repository. In order to use this command, use ctrl/cmd+p and type in "Git: Commit-and-sync"
 	- **Tip:** typing in "sync" will autocomplete to this command, you can also set a hotkey for it in Obsidian's hotkey settings
 - Ensure you have the setting "Pull on startup" turned **ON**
 ##### Digital Garden (Optional)
