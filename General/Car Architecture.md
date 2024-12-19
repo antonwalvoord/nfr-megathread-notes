@@ -4,6 +4,7 @@ dg-publish: true
 🚧UNDER CONSTRUCTION [[How to contribute to the megathread|You Can Help!]]🚧
 # Mechanical
 Our vehicle is a single motor + differential car. Many other teams have more sophisticated drivetrains, including setups with hub motors, which allow you to eliminate all spinning shafts inboard of the wheels.
+We have stuck with the traditional single motor + differential setup for simplicity.
 🚧I need help for this🚧
 # Electrical
 >[!Warning] For most up to date information, check the [draw.io](https://app.diagrams.net/#G1aAUkTBznf-oBW0_HJwPR886YPGE_Ngbq#%7B%22pageId%22%3A%22AH0zOfJDxDtdpztpxlL7%22%7D)
