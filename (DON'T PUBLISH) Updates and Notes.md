@@ -4,7 +4,8 @@
 	- [ ] MAKE SURE YOU LINK AS MUCH AS POSSIBLE
 - [ ] ==ALL TEAM HOME PAGES==
 - [ ] team terminology, pick up at [[Team Terminology#Manual Service Disconnect (MSD)]]
-- [ ] [[How to contribute to the megathread]] say explicitly that the file directory is 
+- [x] [[How to contribute to the megathread]] say explicitly that the file directory is 
+- [ ] when cloning, tell them to do it in the root directory despite what the docs say
 ## To be Added
 - [ ] per team projects w description and current members
 - [ ] current leads
