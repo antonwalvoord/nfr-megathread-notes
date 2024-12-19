@@ -1,2 +1,4 @@
 #ignore obsidian json files for better git usage on mobile
-.obsidian/**
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins
