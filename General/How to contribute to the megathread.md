@@ -6,6 +6,8 @@ Obsidian is what I use to edit the megathread and I highly recommend it. It stor
 - Download Obsidian [here](https://obsidian.md/download)
 
 After installing Obsidian, launch it and create a new vault called "MEGATHREAD" in a file location of your choice. Don't add any files to the vault yet. Then set up the plugins below (Git is mandatory, the others are extremely useful).
+
+**Note:** in order to edit the megathread, you'll need [[#Permissions|permissions]]
 #### Plugins
 ##### Git (Mandatory)
 In order to make sure everyone is operating off of a shared version we use Git for version control. Obsidian has a great plugin for this which makes it incredibly easy to stay in sync with the repo. **Whenever you finalize changes to the repo you must commit them and push them. DO NOT push them unless you are ready to have them published to the live version, as someone else will likely pull and then unknowingly publish your changes. To avoid this, make sure that all settings labelled "Auto commit-and-sync" are DISABLED** 
@@ -36,5 +38,11 @@ I have personally run into issues with embedding files and having them successfu
 If you need to embed other types of files, there are ways to do this through html as well [[FSAE 2025 Rules|See: FSAE 2024 Rules]]
 # Permissions
 In order to edit the megathread you'll need to be added as a collaborator on the Git repository where the thread is housed. Contact Anton on [slack](https://nufsae.slack.com/team/U05U23W4WJV) or by [email](mailto:antonwalvoord2027@u.northwestern.edu) to be added.
+
+If you want to simply be able to edit the notes, you only need to be a collaborator on [the notes repo](https://github.com/antonwalvoord/nfr-megathread-notes)
+
+If you want to be able to publish to the website you'll need to be a collaborator on [the website repo](https://github.com/antonwalvoord/nfr-megathread) (or alternatively you could submit pull requests for changes you wish to be published)
 # Usage Notes
 If you're going to be editing a portion of the megathread "owned" by another member (owned meaning they are in charge of it's content or it's highly relevant to them) you should contact them prior to pushing your changes.
+
+In an attempt to keep a consistent style, please refer to the [[Style Guide]] for general formatting notes. **This file is unpublished and only available to editors, open in Obsidian to view.**
