@@ -6,6 +6,7 @@
 - [ ] team terminology, pick up at [[Team Terminology#Manual Service Disconnect (MSD)]]
 - [x] [[How to contribute to the megathread]] say explicitly that the file directory is  relative not absolute
 - [ ] when cloning, tell them to name the folder a specific name, also move my own files to that same subdirectory
+- [ ] add line breaks "---"
 ## To be Added
 - [ ] per team projects w description and current members
 - [ ] current leads
