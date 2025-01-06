@@ -24,11 +24,18 @@ Described by **EV.5.3**: Electrically connects and disconnects [[#Accumulator|Ac
 Described by **EV.5.4**: Normally open relays which disconnect the two poles of the [[#Accumulator|Accumulator]] and prevent High Voltage **T.9.1.1** from being present outside the Accumulator container.
 ##### Manual Service Disconnect (MSD)
 By **EV.5.5** "A Manual Service Disconnect (MSD) must be included to quickly disconnect one or the two poles of the Accumulator **EV.11.3.2**"
+##### Shutdown Circuit
+The shutdown circuit (Described in [[FSAE 2025 Rules|EV.7.2]]) is a safety mechanism which serves to disconnect the [[Team Terminology#Tractive System (TS)|Tractive System]] either automatically or manually. This is done through a series of switches and [[Team Terminology#Interlocks|interlocks]] which can break power supply to the [[Team Terminology#Isolation Relays (IR)|IR'S]] thus isolating the Tractive System from the outside world to protect us from the high voltage. For specifics on the wiring, see the [[Car Architecture#Shutdown Circuit|car architecture]].
 ##### Interlocks
 Described in **EV.7.8**: Interlocks are wires or connections which when unplugged open the shutdown circuit. Think of it like a safety switch which detects whether or not a plug is plugged in. They are required on the [[#Manual Service Disconnect (MSD)|MSD]] and on any [[#Tractive System (TS)|TS]] connector outside of a housing (including those that are mounted on a housing)
 
 
+
+##### Drive Critical
+Any portion of the car which, in its absence, would make the car undriveable. This could be for logistical reasons or safety reasons. For example, the motor is drive critical because it generates the force that moves the car; this is a logistical reason. On the other hand the [[#Shutdown Circuit|shutdown circuit]] is drive critical because without it driving the car would be unsafe; this is a safety reason.
 ##### Battery Pack Configuration Shorthand
 Often it is helpful to know how many series and parallel connections a battery pack has. The number of series connections indicates the pack voltage, and the number of parallel connections indicates the pack current/capacity. To quickly share this information we use the shorthand "`XsYp`" where "X" denotes the number of series connections and "Y" the number of parallel connections. Meaning `10s4p` would represent a battery pack with `10` series connections and `4` parallel connections
+##### Bus Load
+The amount of information being sent over a communication bus. Based on the communication rate of the bus, there is an upper limit to the bus load which increases with communication rate. However, higher data transmission rates generally introduce more complications.
 ### Mechanical
 🚧Under [[How to contribute to the megathread|construction]]🚧
