@@ -21,7 +21,9 @@ The shutdown circuit (Described in [[FSAE 2025 Rules|EV.7.2]]) is a safety mecha
 ### CAN (Controller Area Network)
 CAN is a rugged information bus protocol that allows many devices to communicate with one another over a limited number of wires (two per bus). On NFR25 we have two separate CAN busses. This means that devices can only communicate with other devices on the same bus (unless they use another device which is on both busses as an intermediary). Our two CAN busses are called *DATA* and **DRIVE** CAN. *DATA* is (as the name suggests) intended for purely data acquisition purposes and is not [[Team Terminology#Drive Critical|drive critical]]. **DRIVE** contains information directly related to controlling the driving of the car and is drive critical. There are two buses to reduce the [[Team Terminology#Bus Load|bus load]] of any one bus which is intended to make the car's communication network more robust.
 
-For more low level information on how CAN actually works, refer to [this article on DigiKey](https://forum.digikey.com/t/overview-of-the-can-bus-protocol/21170) 
+>[!note] For more low level information on how CAN actually works, refer to [this article on DigiKey](https://forum.digikey.com/t/overview-of-the-can-bus-protocol/21170) 
+
+The drawing below denotes which devices are connected to which CAN busses, arranged as to approximate location within the car.
 
 ![](https://i.imgur.com/WLkDqtt.png)
 
