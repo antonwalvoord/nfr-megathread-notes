@@ -3,19 +3,19 @@ dg-publish: true
 ---
 ### Members in charge
 - [Brandon](https://nufsae.slack.com/team/U07PL43NDFE)
-	- Design: Dashbox Internal Harness
+	- Design: [[Car Architecture#Dashbox|Dashbox]] Internal Harness
 	- Manufacture: Wheel Harnesses
 - [Charmaine](https://nufsae.slack.com/team/U07PHHCPLNP)
-	- Design: Backbox Internal Harness
+	- Design: [[Car Architecture#Backbox|Backbox]] Internal Harness
 	- Manufacture: Top Hoop Harness
 - [Hannah](https://nufsae.slack.com/team/U07PFHB6M8F)
-	- Design: LV Box Internal Harness (With Neil)
+	- Design: [[Car Architecture#LV Box|LV Box]] Internal Harness (With Neil)
 	- Manufacture: Maintenance Panel Harness (With Neil)
 - [Marah](https://nufsae.slack.com/team/U07PYPCL98V)
-	- Design: Penthouse Internal Harness
+	- Design: [[Car Architecture#Penthouse|Penthouse]] Internal Harness
 	- Manufacture: Backbone Harness
 - [Neil](https://nufsae.slack.com/team/U07QF349F5F)
-	- Design: LV Box Internal Harness (With Hannah)
+	- Design: [[Car Architecture#LV Box|LV Box]] Internal Harness (With Hannah)
 	- Manufacture: Maintenance Panel Harness (With Hannah)
 ### [Project Google Drive](https://drive.google.com/drive/folders/1XJQPlfdeBkZnX8IhdU2FMexnPGzltzIY?usp=sharing)
 

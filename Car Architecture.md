@@ -9,6 +9,8 @@ We have stuck with the traditional single motor + differential setup for simplic
 # Electrical
 >[!Warning] For most up to date information, check the [draw.io](https://app.diagrams.net/#G1aAUkTBznf-oBW0_HJwPR886YPGE_Ngbq#%7B%22pageId%22%3A%22AH0zOfJDxDtdpztpxlL7%22%7D)
 ### Overview
+![](https://i.imgur.com/IrDRmHq.png)
+
 🚧draw.io output and generals🚧
 
 ---
