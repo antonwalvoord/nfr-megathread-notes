@@ -3,8 +3,20 @@ dg-publish: true
 dg-pinned: true
 ---
 # About:
-Battery management systems are mainly boards that monitors specific elements of the batteries and determine the state of operation which the battery should be depending on both the internal circumstances as well as external circumstances of the rest of the car. 
-There are several boards within this project group, which can be found in the project list down below.
+Battery management systems are mainly boards that monitors specific elements of the accumulator (another word for very big battery) and determine the state of operation of the accumulator, which depends on both the internal circumstances of the accumulator as well as external circumstances of the rest of the car. 
+There are several boards within this project group, which can be found in the [[#Project List]] down below.
+
+# Introduction to BMS
+### Batteries and the what nots
+### State Machines 
+### BMS Chips
+### Passive/Active Balancing
+### Precharge/Discharge Control
+
+# Codebase
+
+# History
+
 # Project List
 - [[Voltage Indicator Board (VIB)]]
 - [[High Voltage Battery Management System (HV BMS)|HV BMS]]
