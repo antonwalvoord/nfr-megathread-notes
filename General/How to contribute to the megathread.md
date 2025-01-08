@@ -14,6 +14,7 @@ In order to make sure everyone is operating off of a shared version we use Git f
 - If you don't have Git installed on your computer, reference [this guide](https://nfr-learn.ue.r.appspot.com/lessons/4/3/) steps **4 and 5**
 - Go to the [Git](obsidian://show-plugin?id=obsidian-git) plugin page, install and enable it
 - Follow [this guide](https://publish.obsidian.md/git-doc/Getting+Started) to fully set up the plugin
+	- **Note:** On step 3 of the instructions, choose to do the option: `Move all your files from the new folder (including .git !) into your vault root.`
 - When you clone the repository you should use [this](https://github.com/antonwalvoord/nfr-megathread-notes.git) link
 	- **Note:** When you do so, make sure you specify a *relative* path instead of an absolute path. So instead of `C:\Users\blah-blah`, just type the name of the new folder you want to create.
 - When using this plugin, the most useful command is "commit-and-sync". This command will automatically stage all your changes, commit them, then pull from remote to prevent merge conflicts, and finally push them to the remote repository. In order to use this command, use ctrl/cmd+p and type in "Git: Commit-and-sync"
