@@ -5,7 +5,7 @@ dg-publish: true
 ###### **General**
 - [ ] Fill out the [when2meet](https://www.when2meet.com/?28205017-rScyK) if you're interested in office hours!!
 ###### **For Harness**
-- [ ] Pair up and review one another's RapidHarness designs
+- [x] Pair up and review one another's RapidHarness designs
 - [ ] Add [manufacturing notes](https://nufsae.slack.com/archives/C07P7C9PF5F/p1733958734239609) to your designs
 - [ ] Review the [[Harness]] design as a whole or at least the portion you're in charge of manufacturing, referencing the [[Car Architecture#Overview|electrical architecture]] might be useful
 ###### **For PDM**
