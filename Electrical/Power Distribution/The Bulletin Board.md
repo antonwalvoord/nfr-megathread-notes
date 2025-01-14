@@ -3,7 +3,7 @@ dg-publish: true
 ---
 ## Weekly Goals (Week of January 13)
 
-###### **For Harness**
+###### **For Harness** *Note: all linked resources are also available on the [[Harness#Useful Resources|Harness Project Page]]*
 - [x] Add [manufacturing notes](https://nufsae.slack.com/archives/C07P7C9PF5F/p1733958734239609) to your designs
 	- ***Many people have done this but I think there are still some I have not taught, reach out to me if this is the case!***
 - [ ] Take a look at the frame in the autobay now that it is fully tacked
