@@ -21,6 +21,10 @@ dg-publish: true
 ### Useful Resources:
 [TSMaster Setup and Usage Video](https://www.youtube.com/watch?v=SC9NUNhF2gU) 
 [TSMaster Download Link](https://github.com/TOSUN-Shanghai/TSMaster) 
+[How to Crimp Contacts](https://www.youtube.com/watch?v=GJqt5VYRBro) 
+[How to Crimp Splices](https://youtu.be/G8OpSIAQqtw?si=HFHrOl0FsHYRMd87)
+[How to Solder Splices](https://youtu.be/u7C2OqBngnw?si=ggfWaJrPUHmEXt7L)
+
 ### [Project Google Drive](https://drive.google.com/drive/folders/1XJQPlfdeBkZnX8IhdU2FMexnPGzltzIY?usp=sharing)
 
 ### Project Information
