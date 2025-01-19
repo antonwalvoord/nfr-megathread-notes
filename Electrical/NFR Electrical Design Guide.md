@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 Useful links:
 - [Altium design rules folder](https://drive.google.com/drive/folders/1BwvYNkELOf7sJ1a7A252MouveoW5z5zN?usp=drive_link)
