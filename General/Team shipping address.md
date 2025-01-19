@@ -7,4 +7,4 @@ The following address delivers to the "office", which is in the very lowest floo
 S.B. 250
 Evanston IL 60208
 
-*In truth, the package will first go to the shipping and receiving loading dock in Tech, which the autobay is across from in the alley between Tech and Ford. Then, the shipping and receiving people like Antonio (See [[Useful contacts]]) (super friendly guy, still working there as of Jan 2025) will hand-deliver the package to the office.*
+*In truth, the package will first go to the shipping and receiving loading dock in Tech, which the autobay is across from in the alley between Tech and Ford. Then, the shipping and receiving people like [[Useful contacts#Antonio|Antonio]] (super friendly guy, still working there as of Jan 2025) will hand-deliver the package to the office.*

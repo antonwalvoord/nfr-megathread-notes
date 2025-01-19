@@ -5,6 +5,7 @@ dg-pinned: true
 ## [[Car Architecture#Electrical|Electrical Architecture]]
 ## [CAN DBC](https://nfr-learn.ue.r.appspot.com/can)
 ## Informational Guides
+- [[NFR Electrical Design Guide]]
 - [[Altium Onboarding Guide]]
 - [[UTM (Free Windows Emulator) Setup Guide]]
 ## Full Project List
