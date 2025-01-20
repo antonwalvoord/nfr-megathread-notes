@@ -15,7 +15,7 @@ Useful links:
 🚧under construction🚧
 
 ### PCB checklist
-- [ ] Slikscreen
+- [ ] Silkscreen
 	- [ ] Generally cleaned up
 	- [ ] Designators all oriented properly
 	- [ ] Include name of designer, date, and name of board w/ version (V1, V2, ...)
