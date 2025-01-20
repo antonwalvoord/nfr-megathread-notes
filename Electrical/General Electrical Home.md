@@ -11,6 +11,7 @@ dg-pinned: true
 ## Full Project List
 - [[Battery Management System Home|BMS:]]
 	- ==Fill in==
+	for update
 - [[Data Acquisition Home|DAQ]]
 	- ==Fill in==
 - [[Drivetrain Electronics Home|Drivetrain Electronics]]
