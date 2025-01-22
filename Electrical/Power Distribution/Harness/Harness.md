@@ -22,8 +22,10 @@ dg-publish: true
 [TSMaster Setup and Usage Video](https://www.youtube.com/watch?v=SC9NUNhF2gU) 
 [TSMaster Download Link](https://github.com/TOSUN-Shanghai/TSMaster) 
 [How to Crimp Contacts](https://www.youtube.com/watch?v=GJqt5VYRBro) 
-[How to Crimp Splices](https://youtu.be/G8OpSIAQqtw?si=HFHrOl0FsHYRMd87)
-[How to Solder Splices](https://youtu.be/u7C2OqBngnw?si=ggfWaJrPUHmEXt7L)
+[How to Crimp Splices](https://youtu.be/G8OpSIAQqtw?si=HFHrOl0FsHYRMd87) 
+[How to Solder Splices](https://youtu.be/u7C2OqBngnw?si=ggfWaJrPUHmEXt7L) 
+[CAN Operation Explained](https://www.digikey.com/en/blog/the-basics-of-the-controller-area-network) 
+[CAN Errors Explained](https://www.csselectronics.com/pages/can-bus-errors-intro-tutorial) 
 
 ### [Project Google Drive](https://drive.google.com/drive/folders/1XJQPlfdeBkZnX8IhdU2FMexnPGzltzIY?usp=sharing)
 
