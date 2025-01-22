@@ -1,34 +1,30 @@
 ---
 dg-publish: true
 ---
-## Weekly Goals (Week of January 13)
+## Weekly Goals (Week of January 20)
 
-###### **For Harness** *Note: all linked resources are also available on the [[Harness#Useful Resources|Harness Project Page]]*
-- [x] Add [manufacturing notes](https://nufsae.slack.com/archives/C07P7C9PF5F/p1733958734239609) to your designs
-	- ***Many people have done this but I think there are still some I have not taught, reach out to me if this is the case!***
-- [ ] Take a look at the frame in the autobay now that it is fully tacked
-- [ ] Learn and practice how to crimp and assemble connectors
-	- Here is a learning resource for [crimping contacts](https://www.youtube.com/watch?v=GJqt5VYRBro) 
-- [ ] Test Big Papa's capability for CAN transmission and splicing
-	- Here are some learning resource for [crimping splices](https://youtu.be/G8OpSIAQqtw?si=HFHrOl0FsHYRMd87) and [soldering splices](https://youtu.be/u7C2OqBngnw?si=ggfWaJrPUHmEXt7L). While the guy in the second video is *very* opinionated he isn't really correct as both crimps and solder splices have their advantages and disadvantages.
+###### **For Harness**
 - [ ] Review the [[Harness]] design as a whole or at least the portion you're in charge of manufacturing, referencing the [[Car Architecture#Overview|electrical architecture]] might be useful
+- [ ] Start to take some general measurements down that will be helpful for bundle lengths during manufacturing. You should take measurements in the autobay rather than in the CAD because at this point we're dealing with what has been manufactured and there may be *minor* differences. We'll need to do this before we can make anything
+	- *Note:* You should take note of accurate lengths but also pay attention to the geometry of the surrounding area. Does it seem like you'll need a particularly large amount of slack? Or only a little? Write all of this information down in a centralized document in the [google drive](https://drive.google.com/drive/u/1/folders/1XJQPlfdeBkZnX8IhdU2FMexnPGzltzIY) 
+	- This is a good time to do this when the frame is still very bare bones and there isn't that much in the way of taking measurements. Things will start to pile on the car and make it more difficult for you to get in there
 
-###### **For PDM**
-- [ ] *Because it seems like hardware is facing delays:* Begin working on the software for PDM
-- [ ] It seems like the replacement PMOS doesn't have a high enough current rating. I have found some substitutes but feel free to look for more. So far I have found the [DMP4006SPSWQ-13](https://www.mouser.com/ProductDetail/Diodes-Incorporated/DMP4006SPSWQ-13?qs=QNEnbhJQKvau%2F67E%252BtZDyg%3D%3D) and the [NTMFS002P03P8ZT1G](https://www.mouser.com/ProductDetail/onsemi/NTMFS002P03P8ZT1G?qs=stqOd1AaK79thd%252BWxQn8jQ%3D%3D)  
-	- For reference, ideally we would like a PMOS with a similar footprint to the previous part: `SQJ147ELP-T1 GE3`. Otherwise we will have to have a breakout connection, which isn't ideal but is an option.
+###### **For LV Battery**
+- [ ] Meet with the people from Accumulator and make plans moving forward
 
 ###### **For LV Charger**
-- [ ] Create a presentation for [[Team Terminology#Preliminary Design Review (PDR)|PDR]] and prepare how to convey what the schematic does and how it does it (referencing the datasheet might be useful) [example DR for reference](https://docs.google.com/presentation/d/1-fCKBrOlIeWMv5JdjkKDEaHvMuicsPBqZMI5pWFt9S0/edit?usp=sharing)
-	- **1 week behind schedule**
+- [ ] Review PDR and schematic comments with me
 - [ ] Schedule a PDR
-	- **1 week behind schedule**
+
+###### **For PDM**
+- [ ] Plan for failure about the PMOS, what solutions can you think of if the PMOS doesn't work? What alternative circuit should we use? I'd like to discuss this and see what your thoughts are
+- [ ] Continue working on the software for PDM and waiting for the new PMOS to come
 
 ## Monthly Goals (January)
 
 ###### **For Harness**
 - [ ] *Completely* finalize internal harness designs
-- [ ] External Harnesses largely manufactured
+- [ ] ~~External Harnesses largely manufactured~~ (*This was a bit too optimistic I think*)
 - [ ] Begin testing of external harness
 
 ###### **For PDM**
