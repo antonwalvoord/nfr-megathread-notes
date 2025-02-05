@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-## Weekly Goals (Week of January 27)
+## Weekly Goals (Week of February 3)
 
 ###### **For Harness**
 - [ ] *Recommended:* If you're interested in knowing more about how CAN works, read through [this DigiKey](https://www.digikey.com/en/blog/the-basics-of-the-controller-area-network) article or [this one](https://forum.digikey.com/t/overview-of-the-can-bus-protocol/21170) and [this article about CAN errors](https://www.csselectronics.com/pages/can-bus-errors-intro-tutorial) 
@@ -14,23 +14,22 @@ dg-publish: true
 - [ ] Schedule a PDR
 
 ###### **For PDM**
-- [ ] Get new member caught up on the status of the project and the steps moving forward
-- [ ] Review possible BJT replacement circuit with me
-- [ ] Continue working on the software for PDM and waiting for the new PMOS to come
+- [ ] Review ~~possible~~ definite BJT replacement circuit with me
+- [ ] Continue working on the software for PDM
 
-## Monthly Goals (January)
+## Monthly Goals (February)
 
 ###### **For Harness**
-- [ ] *Completely* finalize internal harness designs
-- [ ] ~~External Harnesses largely manufactured~~ (*This was a bit too optimistic I think*)
+- [ ] External Harnesses largely manufactured
+	- **We will need the harness ready to be put on the car mid march!**
 - [ ] Begin testing of external harness
 
 ###### **For PDM**
-- [ ] Solve overcurrent protection issue
 - [ ] Complete [testing plans](https://docs.google.com/document/d/1Ojkzd-2abVfz04r5hTp6LYRJP8-pr1D0azjeg3GUBKw/edit?usp=sharing) 
 - [ ] Finish first draft of software (sans bugfixing)
+- [ ] Create a workable PDM circuit while waiting for board redesign
 
 ###### **For LV Charger**
-- [ ] Finish schematic and layout
+- [ ] Finish layout
 - [ ] Complete a DR
 - [ ] Have a design ready to be ordered for manufacture
