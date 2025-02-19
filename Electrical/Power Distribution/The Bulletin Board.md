@@ -3,6 +3,7 @@ dg-publish: true
 ---
 ## Weekly Goals (Week of February 17)
 
+
 ###### **For Harness**
 - [ ] I have been focused largely on PDM recently but now I will be checking in on the progress that Harness has been making and seeing what has been manufactured and what is still in design consideration. I also think it would be good to lay out the portions we have on the table to do a sanity check on if everything is looking correct
 
