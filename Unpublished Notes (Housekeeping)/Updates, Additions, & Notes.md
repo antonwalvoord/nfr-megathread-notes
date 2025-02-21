@@ -17,3 +17,6 @@
 - [ ] Ask how people would like access to this information!
 - [ ] check how publishing works from other devices/github accts
 - [ ] DNS done through [Cloudfare](https://dash.cloudflare.com)
+
+
+matias is this working
