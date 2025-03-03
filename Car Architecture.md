@@ -17,7 +17,7 @@ We have stuck with the traditional single motor + differential setup for simplic
 ### Shutdown Circuit
 The shutdown circuit (Described in [[FSAE 2025 Rules|EV.7.2]]) is a safety mechanism which serves to disconnect the [[Team Terminology#Tractive System (TS)|Tractive System]] either automatically or manually. This is done through a series of switches and [[Team Terminology#Interlocks|interlocks]] which can break power supply to the [[Team Terminology#Isolation Relays (IR)|IR'S]] thus isolating the Tractive System from the outside world to protect us from the high voltage. For specifics on the wiring, see the drawing below.
 
-![](https://i.imgur.com/7lUzD3D.png)
+![](https://i.imgur.com/p0XU1E7.png)
 
 ---
 ### CAN (Controller Area Network)
@@ -27,7 +27,7 @@ CAN is a rugged information bus protocol that allows many devices to communicate
 
 The drawing below denotes which devices are connected to which CAN busses, arranged as to approximate location within the car.
 
-![](https://i.imgur.com/WLkDqtt.png)
+![](https://i.imgur.com/tYnMink.png)
 
 ---
 ### Battery Structure
