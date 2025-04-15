@@ -14,21 +14,6 @@ dg-publish: true
 - Get AC PWM working
 
 # Harness
-## Purchases
-- [x] Size 20 Pins
-- [x] HDP20 Pin removers
-- [ ] Replacement AC connectors and potentially more crimps
-- [ ] Replacement penthouse TS connectors to repopulate with proper TS wire
-	- [ ] TSMP
-	- [ ] VIB
-	- [ ] BMS
-- [ ] Potentially buy more 3pin connectors for wheel brokers (*did find more after rooting through a box*)
-- [x] New size 4 pins and sockets
-	- [ ] Will need to stay up to date on whether or not these actually come after resubmitting sample request
-	- [ ] Might be able to get away with 15A rated contactor/connectors instead in the same family
-- [ ] Inertial switch connector
-- [ ] Closed barrel splices
-
 ## Design updates
 - Potentially a replacement connector for LV box power connector
 - CAN breakout connector
