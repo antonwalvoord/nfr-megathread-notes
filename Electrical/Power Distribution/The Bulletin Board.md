@@ -32,3 +32,4 @@ dg-publish: true
 - Properly pigtail and heatshrink cockpit shutdown connections
 - **Implement inertial switch connection**
 - BOTS wiring (*I think, at the very least likely needs redoing*)
+- Check Dashbox internal harness for CAN wiring issues focusing on Dashboard specifically - ECU didn't have issues but Dash did
