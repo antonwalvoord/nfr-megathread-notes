@@ -38,12 +38,12 @@ The [[Team Terminology#Accumulator|Accumulator]] is the high voltage battery whi
 
 | Cells        | Configuration                       | Max Voltage | Nominal Voltage | Capacity | Fused Current                                                                                                                                                                                                                                                          |
 | ------------ | ----------------------------------- | ----------- | --------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Molicel p45b | 5 Series Segments *see table below* | 588 V       | 504 V           | 🚧       | 80 A<br>[Fuse](https://www.mouser.com/ProductDetail/Littelfuse/L75QS080.V?qs=w%2Fv1CP2dgqquMmGcdv%252B%252BVQ%3D%3D)<br>[Datasheet](https://www.littelfuse.com/~/media/electrical/datasheets/fuses/semiconductor-fuses/littelfuse-industrial-l75qs-fuse-datasheet.pdf) |
+| Molicel p45b | 5 Series Segments *see table below* | 588 V       | 504 V           | 13.5 Ah  | 80 A<br>[Fuse](https://www.mouser.com/ProductDetail/Littelfuse/L75QS080.V?qs=w%2Fv1CP2dgqquMmGcdv%252B%252BVQ%3D%3D)<br>[Datasheet](https://www.littelfuse.com/~/media/electrical/datasheets/fuses/semiconductor-fuses/littelfuse-industrial-l75qs-fuse-datasheet.pdf) |
 ###### Single Segment Electrical Structure
 
 | Cells        | Configuration                                                    | Max Voltage | Nominal Voltage | Capacity | Fused Current |
 | ------------ | ---------------------------------------------------------------- | ----------- | --------------- | -------- | ------------- |
-| Molicel p45b | [[Team Terminology#Battery Pack Configuration Shorthand\|28s3p]] | 117.6 V     | 100.8 V         | 🚧       | 80 A          |
+| Molicel p45b | [[Team Terminology#Battery Pack Configuration Shorthand\|28s3p]] | 117.6 V     | 100.8 V         | 13.5 Ah  | 80 A          |
 
 #### Low Voltage (LV) Battery
 The [[LV Battery]] powers everything other than the [[Team Terminology#Tractive System (TS)|Tractive System]]. It's located in the [[#LV Box]]. The mechanical structure is designed by the [[Accumulator Home|Accumulator Subteam]] and the electrical structure is designed by the [[Power Distribution Home|Power Distribution Subteam]].
