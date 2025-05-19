@@ -25,7 +25,7 @@ CAN is a rugged information bus protocol that allows many devices to communicate
 
 On NFR25 we originally designed to have two separate CAN busses but have modified our designs to use a single bus instead.
 
-All boards have been migrated over to the **DRIVE** bus. The *DATA* bus now is purely vestigial as it is not worth the effort of extracting it from the cabling in the harness.
+>[!Warning] All boards have been migrated over to the **DRIVE** bus. The *DATA* bus now is purely vestigial as it is not worth the effort of extracting it from the cabling in the harness.
 
 Our two CAN busses are called *DATA* and **DRIVE** CAN. *DATA* is (as the name suggests) intended for purely data acquisition purposes and is not [[Team Terminology (Glossary)#Drive Critical|drive critical]]. **DRIVE** contains information directly related to controlling the driving of the car and is drive critical. There are two buses to reduce the [[Team Terminology (Glossary)#Bus Load|bus load]] of any one bus which is intended to make the car's communication network more robust.
 
