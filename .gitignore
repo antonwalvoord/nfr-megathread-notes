@@ -1,2 +1,5 @@
 #ignore obsidian json files for better git usage on mobile
 .obsidian/
+
+#ignore Anton's vimrc settings
+.obsidian.vimrc
