@@ -7,17 +7,17 @@ Battery management systems are mainly boards that monitors specific elements of 
 There are several boards within this project group, which can be found in the [[#Project List|project list]] down below.
 
 # Introduction to BMS
-### Accumulator
-##### Batteries and the what nots
-### BMS
+## Accumulator
+### Batteries and the what nots
+## BMS
 
-##### State Machines 
-##### BMS Chips
-##### Passive/Active Balancing
-##### Precharge/Discharge Control
+### State Machines 
+### BMS Chips
+### Passive/Active Balancing
+### Precharge/Discharge Control
 
-##### Codebase
-### Charger
+### Codebase
+## Charger
 
 # History
 
