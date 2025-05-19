@@ -3,7 +3,7 @@
 - [ ] electrical architecture [[Car Architecture#Electrical]]
 	- [ ] MAKE SURE YOU LINK AS MUCH AS POSSIBLE
 - [ ] ==ALL TEAM HOME PAGES==
-- [ ] team terminology, pick up at [[Team Terminology#Manual Service Disconnect (MSD)]]
+- [ ] team terminology, pick up at [[Team Terminology (Glossary)#Manual Service Disconnect (MSD)]]
 - [x] [[How to contribute to the megathread]] say explicitly that the file directory is  relative not absolute
 - [ ] when cloning, tell them to name the folder a specific name, also move my own files to that same subdirectory
 - [ ] add line breaks "---"
