@@ -41,6 +41,6 @@ dg-publish: true
 - [x] **Implement inertial switch connection**
 - [x] BOTS wiring (*I think, at the very least likely needs redoing*)
 - [x] Check Dashbox internal harness for CAN wiring issues focusing on Dashboard specifically - ECU didn't have issues but Dash did
-- [ ] Properly update Penthouse to abide by rules
-	- [ ] Orange wiring with printed specs
-	- [ ] **One missing fuse line**
+- [x] Properly update Penthouse to abide by rules
+	- [x] Orange wiring with printed specs
+	- [x] **One missing fuse line**
